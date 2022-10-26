@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6282149408037']
+global.ownernomer = "6282149408037"
+global.premium = ['6282149408037']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Fathur'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,7 +60,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thumb = fs.readFileSync('./media/image/naze.jpg')
+global.thumb = fs.readFileSync('./media/image/kobo.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
