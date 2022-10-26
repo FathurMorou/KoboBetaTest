@@ -60,15 +60,15 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thumb = fs.readFileSync('./media/image/kobo.jpg')
+global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.botname = 'Kobo Kanaeru'
+global.akulaku = 'Bot By Fathur'
+global.ytname = 'YT LingZiGT'
 
 
 let file = require.resolve(__filename)
